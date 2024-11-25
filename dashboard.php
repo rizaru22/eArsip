@@ -54,7 +54,7 @@ echo '<body>
                  <div class="row">
                     <div class="col-md-12 text-center">
                         <h1>Aplikasi Arsip Surat</h1><br> 
-                        <img src="images/logokabupaten.png" width="150"> 
+                        <img src="images/logo1.png" width="150"> 
                     </div>
                 </div>
                 <br />
@@ -62,10 +62,10 @@ echo '<body>
                 <table class="table ">
                     <tbody>
                     <tr>
-                        <td width="200">Nama Instansi</td><td>:</td><td>Puskesmas Karang Baru</td>
+                        <td width="200">Nama Instansi</td><td>:</td><td>SMKN 1 Karang Baru</td>
                     </tr>
                      <tr>
-                        <td>Alamat</td><td>:</td><td><span style="white-space: pre-line">Jln. Medan – Banda Aceh Dusun Inpres  Desa Pahlawan Kec. Karang Baru Kode Pos : 24476</span></td>
+                        <td>Alamat</td><td>:</td><td><span style="white-space: pre-line">Jl. Ir. H. Juanda, Desa Bundar, Kec. Karang Baru, Kab. Aceh Tamiang</span></td>
                     </tr>
                     <tr>
                         <td>Pengguna</td><td>:</td><td>'.$_SESSION['jabatan'].'</td>

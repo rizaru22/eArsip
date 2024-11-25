@@ -41,7 +41,7 @@ if($_SESSION['leveluser']=="Administrator" or $_SESSION['leveluser']=="super"){
    closeDropdown();
    openDropdown("leaf","Buat Surat");
    echo menu("view/buatSurat.php","file","Surat Perintah Tugas");
-   echo menu("view/kirsehat.php","file","KIR Sehat");
+   // echo menu("view/kirsehat.php","file","KIR Sehat");
    echo menu("view/suratumum.php","file","Surat Umum");  
    closeDropdown();
    openDropdown("wrench","Pengaturan Data");

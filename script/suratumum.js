@@ -2,7 +2,7 @@
 var save_method, table;
 //Menampilkan data dengan plugin datatables dan konfigurasi datepicker
 $(function(){
-   table = $('#table').DataTable({
+   table = $('.table').DataTable({
       "processing" : true,
       "ajax" : {
          "url" :  "ajax/dbsuratumum.php?action=table_data",    //"ajax/ajax_ujian.php?action=table_data",
